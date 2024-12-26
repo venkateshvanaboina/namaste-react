@@ -1,0 +1,25 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "namaste react",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venkateshvanaboina/namaste-react.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "venkatesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venkateshvanaboina/namaste-react/issues"
+  },
+  "homepage": "https://github.com/venkateshvanaboina/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
